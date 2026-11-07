@@ -1,0 +1,21 @@
+{
+ "title": "Notification history",
+ "open": "Show notification history",
+ "clear": "Clear notification history",
+ "filter": "Filter",
+ "copyAll": "Copy all",
+ "clearBtn": "Clear",
+ "copy": "Copy",
+ "copied": "Copied",
+ "empty": "No notifications yet. They will appear here as SiYuan and your plugins show them.",
+ "noMatch": "No notification matches.",
+ "errorsOnly": "Errors only",
+ "yesterday": "Yesterday",
+ "persist": "Keep history after restart",
+ "persistDesc": "Off: the list starts empty each time SiYuan opens.",
+ "max": "Notifications to keep",
+ "maxDesc": "Older ones are dropped.",
+ "statusBar": "Bell in the status bar",
+ "statusBarDesc": "Shows how many notifications came since you last looked.",
+ "copyFailed": "Could not copy to the clipboard"
+}

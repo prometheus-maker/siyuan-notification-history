@@ -1,0 +1,36 @@
+{
+  "name": "notification-history",
+  "author": "prometheus-maker",
+  "url": "https://github.com/prometheus-maker/siyuan-notification-history",
+  "version": "1.0.0",
+  "minAppVersion": "3.0.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "default": "Notification History",
+    "zh-CN": "通知历史"
+  },
+  "description": {
+    "default": "Keeps every pop-up message SiYuan and its plugins show, so you can read one after it disappears. Filter, errors only, copy.",
+    "zh-CN": "保存思源和插件弹出的每条消息，消失后也能再看。支持筛选、仅看错误、复制。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.zh-CN.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "keywords": [
+    "notification",
+    "message",
+    "history",
+    "log",
+    "通知",
+    "消息",
+    "历史"
+  ]
+}

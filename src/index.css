@@ -1,0 +1,15 @@
+/* Notification history */
+.nh-status { position: relative; }
+.nh-badge { position: absolute; top: -2px; right: -6px; min-width: 14px; padding: 0 3px; border-radius: 7px; font-size: 10px; line-height: 14px; text-align: center; background: var(--b3-theme-primary); color: var(--b3-theme-on-primary); }
+.nh-dialog { display: flex; flex-direction: column; height: 100%; box-sizing: border-box; }
+.nh-bar { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.nh-bar .nh-search { flex: 1 1 200px; min-width: 0; }
+.nh-errors { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--b3-theme-on-surface); white-space: nowrap; }
+.nh-list { flex: 1 1 auto; overflow-y: auto; min-height: 120px; }
+.nh-row { padding: 8px 4px 8px 10px; border-bottom: 1px solid var(--b3-border-color); border-left: 3px solid transparent; }
+.nh-row--error { border-left-color: var(--b3-theme-error); }
+.nh-meta { display: flex; align-items: center; gap: 8px; color: var(--b3-theme-on-surface-light); font-size: 12px; }
+.nh-count { color: var(--b3-theme-primary); }
+.nh-meta .nh-copy { margin-left: auto; }
+.nh-text { white-space: pre-wrap; user-select: text; overflow-wrap: anywhere; margin-top: 2px; color: var(--b3-theme-on-background); }
+.nh-empty { color: var(--b3-theme-on-surface-light); padding: 16px 0; }

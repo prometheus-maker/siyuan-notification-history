@@ -1,0 +1,21 @@
+{
+ "title": "通知历史",
+ "open": "显示通知历史",
+ "clear": "清空通知历史",
+ "filter": "筛选",
+ "copyAll": "全部复制",
+ "clearBtn": "清空",
+ "copy": "复制",
+ "copied": "已复制",
+ "empty": "暂无通知。思源和插件显示的通知会出现在这里。",
+ "noMatch": "没有匹配的通知。",
+ "errorsOnly": "仅错误",
+ "yesterday": "昨天",
+ "persist": "重启后保留历史",
+ "persistDesc": "关闭后，每次打开思源时列表为空。",
+ "max": "保留的通知数量",
+ "maxDesc": "超出后删除最早的通知。",
+ "statusBar": "状态栏铃铛",
+ "statusBarDesc": "显示自上次查看以来收到的通知数量。",
+ "copyFailed": "无法复制到剪贴板"
+}
