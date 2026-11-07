@@ -32,6 +32,10 @@ It records messages from the moment it loads, so the very first ones at startup 
 the screen, so the text is saved but buttons and links inside a message are not. Tested on SiYuan 3.8.9 (Linux,
 browser front end); not yet on mobile.
 
+## Same plugin for other apps
+
+[Obsidian](https://community.obsidian.md/plugins/notice-history), [Logseq](https://github.com/prometheus-maker/logseq-notification-history).
+
 ## Licence
 
 MIT. Source: <https://github.com/prometheus-maker/siyuan-notification-history>. Problems and ideas: open an issue
